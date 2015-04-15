@@ -1,2 +1,2 @@
 # angularjs-i18n
-i18n in angularjs
+This project helps to setup i18n in Angulajs framework. We can support multilpe language support for our application.
